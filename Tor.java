@@ -36,6 +36,16 @@ public class Tor {
 		tor.öffen();
 		tor.öffen();
 		tor.schließen();
+		tor.öffen();
+		tor.öffen();
+		tor.schließen();
+		tor.öffen();
+		tor.öffen();
+		tor.schließen();
+		tor.öffen();
+		tor.öffen();
+		tor.schließen();
+		
 		
 		
 		
