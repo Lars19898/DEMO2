@@ -1,7 +1,7 @@
 
 public abstract class State {
 
-	protected Tor tor=null;
+	protected Tor tor=null; // Referenz auf den Kontext
 	
 	
 
